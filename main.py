@@ -12,8 +12,15 @@ client = discord.Client(intents=intents)
 
 # Diccionario con las series de Naver a monitorear
 naver_series = {
-    "Solo Leveling": "https://comic.naver.com/webtoon/list?titleId=814543",
-    "Another Series": "https://comic.naver.com/webtoon/list?titleId=000000",  # Cambia estos
+    "Lágrimas por flores marchitas": "https://comic.naver.com/webtoon/list?titleId=827190",
+    "En camino a ver a mi madre": "https://m.comic.naver.com/webtoon/list?titleId=834369",
+    "El ultimo tren": "https://m.comic.naver.com/webtoon/list?titleId=834896",
+    "Probablemente invencible": "https://comic.naver.com/webtoon/list?titleId=834396",
+    "La noche de la viuda": "https://series.naver.com/comic/detail.series?productNo=12427989&isWebtoonAgreePopUp=true",
+    "Se convirtió en la esposa del lider del culto demoniaco": "https://comic.naver.com/webtoon/list?titleId=837998",
+    "La peor generación": "https://comic.naver.com/webtoon/list?titleId=834261",
+    "Oxido": "https://comic.naver.com/webtoon/list?titleId=832984", 
+    "marca gris": "https://comic.naver.com/webtoon/list?titleId=829462". # Cambia estos
 }
 
 # Diccionario con las series de NewToki a monitorear
