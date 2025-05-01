@@ -20,7 +20,7 @@ naver_series = {
     "Se convirtió en la esposa del lider del culto demoniaco": "https://comic.naver.com/webtoon/list?titleId=837998",
     "La peor generación": "https://comic.naver.com/webtoon/list?titleId=834261",
     "Oxido": "https://comic.naver.com/webtoon/list?titleId=832984", 
-    "marca gris": "https://comic.naver.com/webtoon/list?titleId=829462". # Cambia estos
+    "marca gris": "https://comic.naver.com/webtoon/list?titleId=829462", # Cambia estos
 }
 
 # Diccionario con las series de NewToki a monitorear
