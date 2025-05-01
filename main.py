@@ -42,6 +42,7 @@ naver_series = {
 newtoki_series = {
     "폭군의 침방 시녀가 되었다": "https://newtoki468.com/webtoon/39013833/%ED%8F%AD%EA%B5%B0%EC%9D%98-%EC%B9%A8%EB%B0%A9-%EC%8B%9C%EB%85%80%EA%B0%80-%EB%90%98%EC%97%88%EB%8B%A4?toon=%EC%9D%BC%EB%B0%98%EC%9B%B9%ED%88%B0",
     "죽음 뒤에 알게 된 것들": "https://newtoki468.com/webtoon/45642634?stx=%EC%A3%BD%EC%9D%8C+%EB%92%A4%EC%97%90+%EC%95%8C%EA%B2%8C+%EB%90%9C+%EA%B2%83%EB%93%A4&title=%EC%A3%BD%EC%9D%8C-%EB%92%A4%EC%97%90-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4",
+    "Ruegame": "https://newtoki468.com/webtoon/41520458?stx=%EB%82%B4%EA%B2%8C+%EB%B9%8C%EC%96%B4%EB%B4%90&title=%EB%82%B4%EA%B2%8C-%EB%B9%8C%EC%96%B4%EB%B4%90",
 }
 
 # Almacenamos el último capítulo revisado por serie
