@@ -19,7 +19,7 @@ async def check_new_chapter():
 
     while not client.is_closed():
         try:
-            url = "https://comic.naver.com/webtoon/list?titleId=814543"  # Cambia este por el que quieres
+            url = "https://comic.naver.com/webtoon/list?titleId=827190"  # Cambia este por el que quieres
             response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
             soup = BeautifulSoup(response.text, 'html.parser')
 
