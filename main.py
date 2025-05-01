@@ -20,7 +20,22 @@ naver_series = {
     "Se convirtió en la esposa del lider del culto demoniaco": "https://comic.naver.com/webtoon/list?titleId=837998",
     "La peor generación": "https://comic.naver.com/webtoon/list?titleId=834261",
     "Oxido": "https://comic.naver.com/webtoon/list?titleId=832984", 
-    "marca gris": "https://comic.naver.com/webtoon/list?titleId=829462", # Cambia estos
+    "marca gris": "https://comic.naver.com/webtoon/list?titleId=829462",
+    "Por que no deberías entrar en una casa embrujada": "https://comic.naver.com/webtoon/list?titleId=834250",
+    "La razón por la que dejé de ser el rey demonio": "https://comic.naver.com/webtoon/list?titleId=820897",
+    "Estación de Seúl Bárvara": "https://comic.naver.com/webtoon/list?titleId=832669", 
+    "El advenimiento del infierno": "https://comic.naver.com/webtoon/list?titleId=818192",
+    "Estrella en la cima": "https://comic.naver.com/webtoon/list?titleId=833679", 
+    "Bombero": "https://comic.naver.com/webtoon/list?titleId=833611", 
+    "El resurgimiento del caballero a través de manggeom": "https://comic.naver.com/webtoon/list?titleId=833417",
+    "Reseña de amor": "https://series.naver.com/comic/detail.series?productNo=12012518",
+    "Emperatriz maria": "https://comic.naver.com/webtoon/list?titleId=836785&tab=mon",
+    "Registro de trabajo": "https://series.naver.com/comic/detail.series?productNo=12337617",
+    "Abrazame fuerte": "https://comic.naver.com/webtoon/list?titleId=837514",
+    "Por mi bella julieta": "https://series.naver.com/comic/detail.series?productNo=11469822",
+    "Pensé que moriria": "https://series.naver.com/comic/detail.series?productNo=9021824", 
+    "Me convertí en el sirviente masculino del duque": "https://comic.naver.com/webtoon/list?titleId=834512",
+    "Me casaré en esta vida":"https://series.naver.com/comic/detail.series?productNo=11856507", # Cambia estos
 }
 
 # Diccionario con las series de NewToki a monitorear
